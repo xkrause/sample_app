@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby version: 2.2.6
+Rails version: 5.0.2
 
-Things you may want to cover:
+A sample app with static pages
 
-* Ruby version
+cd into workspace and run rails server to get started
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Obtained from: https://www.railstutorial.org/book/static_pages#cha-static_pages
