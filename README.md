@@ -36,6 +36,9 @@ If the test suite passes, you'll be ready to run the app in a local server:
 ```
 $ rails server
 ```
+## Where to view the Users page
+
+The users page is located at /users/1
 
 For more information, see the
 [*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
